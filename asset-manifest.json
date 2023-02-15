@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Robofriends/static/css/main.f32826cb.css",
+    "main.js": "/Robofriends/static/js/main.b45de7a0.js",
+    "static/js/787.32032a02.chunk.js": "/Robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/WoW-plexus.woff": "/Robofriends/static/media/WoW-plexus.87dfd03c35095c0c3b5e.woff",
+    "index.html": "/Robofriends/index.html",
+    "main.f32826cb.css.map": "/Robofriends/static/css/main.f32826cb.css.map",
+    "main.b45de7a0.js.map": "/Robofriends/static/js/main.b45de7a0.js.map",
+    "787.32032a02.chunk.js.map": "/Robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f32826cb.css",
+    "static/js/main.b45de7a0.js"
+  ]
+}
